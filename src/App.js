@@ -37,3 +37,9 @@ const App= () => {
 }
 
 export default App;
+
+/*  In React.js, the Context API is a feature that allows you
+    to share data across multiple components without passing props explicitly at each level. 
+    It provides a way to pass data through the component tree without manually passing props down 
+    from parent to child components.
+*/
